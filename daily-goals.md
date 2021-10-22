@@ -21,19 +21,19 @@ if your doing nothing do one of this.
   family                                          = 
   listen to music then sing along                 = 
   work, learning, relax                           = 
-  nap                               10:00 = 20m   = d
   exercise                          30m           = 
   read problem solving books        20m           = 
   intermittent fasting end                        = 
 
 11:00 - 18:00                                           7h
+  nap                               11:00 = 20m   = d
   eat with family                                 = 
   work,learning, relax                            = 
-  nap                               16:00 = 1h30m = d
   6                                               = 
 
 18:00 - 20:00                                           2h
-  family
+  family                                          = 
+  nap                               18:00 = 1h30m = d
   work, learning, relax                           = 
   musician                          30m30m or 1h  = 
   funny videos                      20m           = 
