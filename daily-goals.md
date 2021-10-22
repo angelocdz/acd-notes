@@ -2,7 +2,6 @@
 
 ```
 
-Added file.docx on folder. Created git repository then push to github.
 
 
 Napoleon Hill’s Six-Step Manifestation Formula
