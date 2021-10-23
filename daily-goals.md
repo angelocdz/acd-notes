@@ -12,10 +12,10 @@ if your doing nothing do one of this.
   Read books always.
 
 07:00 - 08:00                                           1h
-  take a bath                                     = d
-  drink hot water                                 = d
-  pray to god                                     = d
-  3                                               = d
+  take a bath                                     = 
+  drink hot water                                 = 
+  pray to god                                     = 
+  3                                               = 
 
 08:00 - 11:00                                           3h
   family                                          = 
@@ -26,14 +26,14 @@ if your doing nothing do one of this.
   intermittent fasting end                        = 
 
 11:00 - 18:00                                           7h
-  nap                               11:00 = 20m   = d
+  nap                               11:00 = 20m   = 
   eat with family                                 = 
   work,learning, relax                            = 
   6                                               = 
 
 18:00 - 20:00                                           2h
   family                                          = 
-  nap                               18:00 = 1h30m = d
+  nap                               18:00 = 1h30m = 
   work, learning, relax                           = 
   musician                          30m30m or 1h  = 
   funny videos                      20m           = 
