@@ -11,29 +11,26 @@ if your doing nothing do one of this.
   Imagine you're desire always.
   Read books always.
 
-07:00 - 08:00                                           1h
+07:00 - 09:00                                           2h
+  family                                          = 
   take a bath                                     = 
   drink hot water                                 = 
   pray to god                                     = 
   3                                               = 
-
-08:00 - 11:00                                           3h
-  family                                          = 
   listen to music then sing along                 = 
-  work, learning, relax                           = 
-  exercise                          30m           = 
   read problem solving books        20m           = 
-  intermittent fasting end                        = 
 
-11:00 - 18:00                                           7h
-  nap                               11:00 = 20m   = 
-  eat with family                                 = 
+
+09:00 - 18:00                                           9h
   work,learning, relax                            = 
+  exercise                          30m           = 
+  eat with family                                 = 
+  nap                               11:00 = 20m   = 
   6                                               = 
 
 18:00 - 20:00                                           2h
   family                                          = 
-  nap                               18:00 = 1h30m = 
+  nap                               18:00 = 40m   = 
   work, learning, relax                           = 
   musician                          30m30m or 1h  = 
   funny videos                      20m           = 
