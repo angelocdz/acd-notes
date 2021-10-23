@@ -61,6 +61,7 @@ off duty
   list all the books that you've read this year    = 
   practice speaking                                = 
   Learn how to be the greatest programmer          = 
+  input expenses                                   = 
 
 relax (22 or 32m) if tired or time for naps
   family                                           = 
