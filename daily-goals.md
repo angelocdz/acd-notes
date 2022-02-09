@@ -105,13 +105,17 @@ Listen to invisible counselors.
  9:00 -  9:30 30m = Take a bath, then drink water.                     = 
 10:00 -  1:00 15h = family,work, relax, nap, learning                  = 
                   = pray, radio taiso, back pain exercise, exercise    = 
-                  = problem solving, codewars, hackerank               = 
+                  = clean                                              = 
               20m = read bible                                         = 
               20m = Sing along & gaming.                               = 
               20m = watch funny video                                  = 
               20m = meditation                                         = 
-              20m = programming language                               = 
+              20m = Programming language to learn for fun.             = 
+              20m = Programming language to earn money quick.          = d
               20m = physics                                            = 
+                  = Learn what your desires.
+                  = Learn 1 song everyday.
+                  = problem solving, codewars, hackerank               = 
  2:00 -  3:00  1h = Talk to invisible counselors.                      = 
                     Think what good have I done today?                 = 
                     youtube                                            = 
