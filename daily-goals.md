@@ -1,4 +1,4 @@
-# daily goals
+# Daily Goals
 
 ```
 05:30 - 24:00 - 19h30m
@@ -7,11 +7,12 @@
   musician, gamer, watch anime, nap, do what you want to enjoy life    =
   job, learning or do the priority tasks to attain freedom             =
   drink water                                                          =
-  coding                                                            1h = 
+  coding                                                               = 
+  reading                                                              = 
+  watch videos                                                      3h =
   git                                                              33m = 
-  reading                                                           1h = 
   set deadlines on the calendar                                     9m = 
-  how to stay awake                                                    = 
+  How to stay awake                                                    = 
   youtube                                                          15m = 
   read bible                                                       33m = 
   prepare to sleep                                                     =
@@ -30,20 +31,25 @@ watch anime                                           3h =
 learning
 backup your work
 sleep
+```
 
-how to stay awake
-  eat banana                                              =
-  watch funny videos                                      = d
-  listen to music                                         =
-  exercise, radio taiso, tai chi, stretching              =
-    hip circles
-    squats
-    push-ups
-    plank
-    pelvic tilts
-    bridging
-    single knee to chest
-    cat & camel
-    prayer's position
-    sphinx pose
+## How to stay awake
+
+```
+drink water                                             =
+drink coffee or tea
+eat banana                                              =
+watch funny videos                                      = d
+listen to music                                         =
+exercise, radio taiso, tai chi, stretching              =
+  hip circles
+  squats
+  push-ups
+  plank
+  pelvic tilts
+  bridging
+  single knee to chest
+  cat & camel
+  prayer's position
+  sphinx pose
 ```
