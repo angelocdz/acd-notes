@@ -27,7 +27,7 @@ farmer                                               3h  =
 look for real estate properties                    30m   =
 Sing along & play games.                              3h = 
 watch anime                                           3h = 
-  one piece 586 d
+  one piece 587 d
 learning
 backup your work
 sleep
