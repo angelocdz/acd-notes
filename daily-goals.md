@@ -9,7 +9,7 @@
   drink water                                                          =
   coding                                                               = 
   reading                                                              = 
-  watch videos                                                      3h =
+  watch videos to learn                                             6h =
   git                                                              33m = 
   set deadlines on the calendar                                     9m = 
   How to stay awake                                                    = 
@@ -27,7 +27,7 @@ farmer                                               3h  =
 look for real estate properties                    30m   =
 Sing along & play games.                              3h = 
 watch anime                                           3h = 
-  one piece 584 d
+  one piece 586 d
 learning
 backup your work
 sleep
